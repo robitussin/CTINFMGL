@@ -1,0 +1,2 @@
+# CTINFMGL
+Information Management Course
