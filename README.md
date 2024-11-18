@@ -10,8 +10,7 @@ Course Outline: https://believed-bongo-319.notion.site/CTINFMGL-13f96450aad180dd
 | 4 - Relational Database Fundamentals |  |
 | 5 - Advanced Data Modeling |  |
 | 6 - Normalization of Database Tables |  |
-| 7 - Introduction to Structured
-Query Language (SQL) | |
+| 7 - Introduction to Structured Query Language (SQL) | |
 
 
 
